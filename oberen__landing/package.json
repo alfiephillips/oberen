@@ -18,7 +18,7 @@
     "react-google-recaptcha-v3": "^1.9.5",
     "react-hot-toast": "^2.1.0",
     "react-icons": "^4.2.0",
-    "validator": "^13.6.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "@types/react": "17.0.16",
