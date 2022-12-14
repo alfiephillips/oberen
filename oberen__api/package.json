@@ -22,7 +22,7 @@
     "class-validator": "^0.13.1",
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "faker": "^5.5.3",
     "graphql": "^15.5.0",
     "graphql-fields": "^2.0.3",
