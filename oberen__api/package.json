@@ -28,7 +28,7 @@
     "graphql-fields": "^2.0.3",
     "graphql-query-complexity": "^0.8.1",
     "graphql-scalars": "^1.10.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "open": "^8.2.1",
     "prisma": "~2.29.0",
     "type-graphql": "^1.1.1",
