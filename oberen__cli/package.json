@@ -6,7 +6,7 @@
   "author": "Alfie Phillips",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.8.2",
     "bcrypt": "^5.0.1",
     "chalk": "^4.1.1",
     "clear": "^0.1.0",
